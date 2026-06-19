@@ -10,8 +10,7 @@
 ```
 
 [![Python](https://img.shields.io/badge/Python-3.8+-1f1f1f?style=for-the-badge&logo=python&logoColor=FFD700)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Latest-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-000000?style=for-the-badge)](LICENSE)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Latest-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)l
 [![Dark Mode](https://img.shields.io/badge/Dark%20Mode-Enabled-FDB913?style=for-the-badge)](README.md)
 
 *A Batman-themed File Management Web App with Gotham's Dark Aesthetic & Glowing Effects*
@@ -185,13 +184,6 @@ Contributions are welcome! Whether you're adding new features, fixing bugs, or i
 5. Open a Pull Request
 
 ---
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🦇 Inspiration
 
 *"I am the night. And I manage files in the night."* — Batman, probably
